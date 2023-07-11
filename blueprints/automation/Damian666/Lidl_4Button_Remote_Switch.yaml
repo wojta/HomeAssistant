@@ -1,5 +1,5 @@
 blueprint:
-  source_url: blueprints/automation/Damian666/Lidl_4Button_Remote_Switch.yaml
+  source_url: https://github.com/FachKraft42/HomeAssistant/blob/main/blueprints/automation/Damian666/Lidl_4Button_Remote_Switch.yaml
   name: ZHA - Lidl 4Button Remote Switch
   description: Automate your Lidl/LivarnoLux 4Button Remote Switch using ZHA events. (Button 1 & 2 - short press only, Button 3 & 4 - short and long press)
   domain: automation
