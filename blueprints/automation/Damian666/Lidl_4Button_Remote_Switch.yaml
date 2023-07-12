@@ -64,7 +64,7 @@ action:
     - conditions: "{{ command == 'off' }}"
       sequence: !input 'button_one_short_press'
     - conditions: "{{ command == 'on' }}"
-      sequence: !input 'button_one_short_press'
+      sequence: !input 'button_two_short_press'
     - conditions: "{{ button_mode == 'StepMode.Up' }}"
       sequence: !input 'button_three_short_press'
     - conditions: "{{ button_mode == 'StepMode.Down' }}"
