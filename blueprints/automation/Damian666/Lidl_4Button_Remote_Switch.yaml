@@ -10,7 +10,7 @@ blueprint:
       selector:
         device:
           integration: zha
-          manufacturer: _TYZB01_bngwdjsr
+          manufacturer: _TYZB01_hww2py6b
           model: TS1001
           multiple: false
     button_one_short_press:
